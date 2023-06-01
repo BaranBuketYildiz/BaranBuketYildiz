@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Baran Buket Yıldız</h1>
 <h3 align="center">Hello! I'm Baran Buket Yıldız, a mobile and web application developer. I specialize in developing mobile applications using Flutter. I graduated from Başkent University in 2023. My goal is to enhance user experience and provide engaging solutions through the applications I develop. I closely follow technological advancements and prioritize adapting to new trends.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=baranbuketyildiz" alt="baranbuketyildiz" /></a> </p>
-
 - 📫 How to reach me **baranbuket12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
