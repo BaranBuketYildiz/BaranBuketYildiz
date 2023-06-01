@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Baran Buket Yıldız</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 📫 How to reach me **baranbuket12@gmail.com**
+- 📫 Benimle iletişime geçmek için [baranbuket12@gmail.com](mailto:baranbuket12@gmail.com) adresinden bana ulaşabilirsiniz.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
