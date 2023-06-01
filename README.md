@@ -1,5 +1,36 @@
 <h1 align="center">Hi 👋, I'm Baran Buket Yıldız</h1>
-<h3 align="center">Hello! I'm Baran Buket Yıldız, a mobile and web application developer. I specialize in developing mobile applications using Flutter. I graduated from Başkent University in 2023. My goal is to enhance user experience and provide engaging solutions through the applications I develop. I closely follow technological advancements and prioritize adapting to new trends.</h3>
+<h3 align="center">
+  Hello! I'm Baran Buket Yıldız, a mobile and web application developer. I specialize in developing mobile applications using Flutter. I graduated from Başkent University in 2023. My goal is to enhance user experience and provide engaging solutions through the applications I develop. I closely follow technological advancements and prioritize adapting to new trends.
+</h3>
+
+<style>
+  @keyframes typing {
+    from {
+      width: 0;
+    }
+    to {
+      width: 100%;
+    }
+  }
+
+  @keyframes blink-caret {
+    from,
+    to {
+      border-color: transparent;
+    }
+    50% {
+      border-color: orange;
+    }
+  }
+
+  /* Apply animation to the text */
+  h3 {
+    overflow: hidden;
+    white-space: nowrap;
+    border-right: 2px solid orange;
+    animation: typing 2s steps(40, end), blink-caret 0.75s step-end infinite;
+  }
+</style>
 
 - 📫 How to reach me **baranbuket12@gmail.com**
 
